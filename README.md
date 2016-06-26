@@ -1,5 +1,6 @@
 # spig
 网站浮动小人
+<img src="https://www.dreamwings.cn/queue/wp-content/uploads/2016/05/e0dd636775b841046f5d193f20211939-1140x600.jpeg"/>
 # <h3>作者</h3>
 首先说明一下它的 作者 是 木木 ~ 不是我啦~
 
