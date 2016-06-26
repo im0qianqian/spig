@@ -3,13 +3,15 @@
 # 作者
 首先说明一下它的 作者 是 木木 ~ 不是我啦~
 
-# 前言
+# <h3>前言</h3>
 图片是自己用 PS 扣出来的，因为基本不会 PS ，所以花了好长时间才弄好
 
 #步骤
-1、加载这个脚本需要 jQuery库 的支持，所以想要成功添加 浮动小人 ，要先确认你的网站已加载 jQuery库。
-2、把style.css中的内容拷贝到你的style.css中
-3、上传spig.js文件到你的服务器
-4、在你的网站header或者footer中添加body.php的代码（如果不是PHP站点的话请删掉body.php中所有的<?php ?>部分）
-5、保存--> 去看看效果吧~
+1、加载这个脚本需要 jQuery库 的支持，所以想要成功添加 浮动小人 ，要先确认你的网站已加载 jQuery库。<br>
+2、把style.css中的内容拷贝到你的style.css中<br>
+3、上传spig.js文件到你的服务器<br>
+4、在你的网站header或者footer中添加body.php的代码（如果不是PHP站点的话请删掉body.php中所有的<?php ?>部分）<br>
+5、保存--> 去看看效果吧~<br>
 
+@提醒
+别忘了修改body.php以及style.css中部分链接哦！
